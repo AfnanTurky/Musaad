@@ -1,5 +1,7 @@
 # Masaad | مْساعد
-
+<p align="center">
+  <img src="assets/مساعد.png" alt="Musaad Logo" width="180"/>
+</p>
 Secure conversational AI for Saudi eServices.
 RAG over trusted service guides + task orchestration + privacy-preserving screen understanding.
 
